@@ -28,11 +28,6 @@ status-website:
   name: AK Services Status
   introTitle: "AK Services Status"
   introMessage: View services status
-  navbar:
-    - title: Status
-      href: /services-status
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 assignees:
   - ashish-khokhar
