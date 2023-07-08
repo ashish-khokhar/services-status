@@ -4,9 +4,9 @@
     "url": "https://www.ashishkhokhar.com/robots.txt",
     "icon": "https://icons.duckduckgo.com/ip3/www.ashishkhokhar.com.ico",
     "slug": "ak",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 193,
     "timeMonth": 204,
     "timeYear": 204,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-08": 0
+    }
   },
   {
     "name": "AK Home",
