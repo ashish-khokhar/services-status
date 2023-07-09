@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ashishkhokhar.com.ico",
     "slug": "ak",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 1553,
-    "timeDay": 12963,
-    "timeWeek": 3398,
-    "timeMonth": 1553,
-    "timeYear": 1553,
-    "dailyMinutesDown": {
-      "2023-07-08": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1488,
+    "timeDay": 13046,
+    "timeWeek": 3407,
+    "timeMonth": 1488,
+    "timeYear": 1488,
+    "dailyMinutesDown": {}
   },
   {
     "name": "AK Home",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 467,
-    "timeDay": 437,
-    "timeWeek": 464,
-    "timeMonth": 467,
-    "timeYear": 467,
+    "time": 470,
+    "timeDay": 519,
+    "timeWeek": 484,
+    "timeMonth": 470,
+    "timeYear": 470,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 449,
-    "timeDay": 440,
-    "timeWeek": 451,
-    "timeMonth": 449,
-    "timeYear": 449,
+    "time": 450,
+    "timeDay": 475,
+    "timeWeek": 465,
+    "timeMonth": 450,
+    "timeYear": 450,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 236,
-    "timeDay": 217,
-    "timeWeek": 237,
-    "timeMonth": 236,
-    "timeYear": 236,
+    "time": 238,
+    "timeDay": 269,
+    "timeWeek": 248,
+    "timeMonth": 238,
+    "timeYear": 238,
     "dailyMinutesDown": {}
   }
 ]
