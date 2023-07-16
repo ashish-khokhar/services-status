@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1198,
-    "timeDay": 255,
-    "timeWeek": 3434,
-    "timeMonth": 1198,
-    "timeYear": 1198,
+    "time": 1162,
+    "timeDay": 236,
+    "timeWeek": 230,
+    "timeMonth": 1162,
+    "timeYear": 1162,
     "dailyMinutesDown": {}
   },
   {
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 471,
-    "timeDay": 501,
-    "timeWeek": 482,
+    "timeDay": 478,
+    "timeWeek": 476,
     "timeMonth": 471,
     "timeYear": 471,
     "dailyMinutesDown": {}
@@ -46,11 +46,11 @@
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 455,
-    "timeDay": 547,
-    "timeWeek": 469,
-    "timeMonth": 455,
-    "timeYear": 455,
+    "time": 458,
+    "timeDay": 525,
+    "timeWeek": 475,
+    "timeMonth": 458,
+    "timeYear": 458,
     "dailyMinutesDown": {
       "2023-07-13": 22
     }
@@ -61,18 +61,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ak-rdp",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "96.19%",
+    "uptimeDay": "13.44%",
+    "uptimeWeek": "87.63%",
+    "uptimeMonth": "96.19%",
+    "uptimeYear": "96.19%",
     "time": 238,
-    "timeDay": 248,
-    "timeWeek": 243,
+    "timeDay": 0,
+    "timeWeek": 238,
     "timeMonth": 238,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2023-07-15": 0
+      "2023-07-16": 46,
+      "2023-07-15": 1201
     }
   }
 ]
