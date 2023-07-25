@@ -6,7 +6,7 @@ sites:
   - name: AK
     url: https://www.ashishkhokhar.com/robots.txt
   - name: AK Home
-    url: http://home.ashishkhokhar.com/
+    url: http://home.ashishkhokhar.com/?pkey=$TEST_KEY
     expectedStatusCodes:
     - 403
   - name: AK Home Plex
