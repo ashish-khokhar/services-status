@@ -22,10 +22,10 @@
     "url": "http://home.ashishkhokhar.com/$TEST_URL",
     "icon": "https://icons.duckduckgo.com/ip3/home.ashishkhokhar.com.ico",
     "slug": "ak-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.85%",
     "time": 465,
@@ -34,6 +34,7 @@
     "timeMonth": 465,
     "timeYear": 465,
     "dailyMinutesDown": {
+      "2023-07-31": 1,
       "2023-07-16": 80
     }
   },
@@ -42,7 +43,7 @@
     "url": "http://home.ashishkhokhar.com:32400/",
     "icon": "https://icons.duckduckgo.com/ip3/home.ashishkhokhar.com.ico",
     "slug": "ak-home-plex",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
@@ -54,6 +55,7 @@
     "timeMonth": 451,
     "timeYear": 450,
     "dailyMinutesDown": {
+      "2023-07-31": 0,
       "2023-07-25": 16,
       "2023-07-16": 47,
       "2023-07-13": 22
