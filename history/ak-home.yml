@@ -1,7 +1,7 @@
 url: http://home.ashishkhokhar.com/$TEST_URL
-status: up
-code: 403
-responseTime: 369
-lastUpdated: 2023-08-28T23:08:43.785Z
+status: down
+code: 404
+responseTime: 515
+lastUpdated: 2023-08-29T01:06:54.729Z
 startTime: 2023-06-23T07:59:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
