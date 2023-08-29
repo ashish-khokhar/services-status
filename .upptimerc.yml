@@ -4,7 +4,7 @@ repo: services-status # The name of this repository
 
 sites:
   - name: AK
-    url: https://www.ashishkhokhar.com/robots.txt
+    url: https://www.ashishkhokhar.com/robots.txt?$GITHUB_RUN_ID
   - name: AK Home
     url: http://home.ashishkhokhar.com/$TEST_URL
     expectedStatusCodes:
