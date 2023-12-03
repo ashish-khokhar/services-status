@@ -4,11 +4,11 @@
     "url": "https://www.ashishkhokhar.com/robots.txt?$GITHUB_RUN_ID",
     "icon": "https://icons.duckduckgo.com/ip3/www.ashishkhokhar.com.ico",
     "slug": "ak",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "98.12%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
     "time": 530,
     "timeDay": 377,
@@ -16,7 +16,7 @@
     "timeMonth": 1093,
     "timeYear": 530,
     "dailyMinutesDown": {
-      "2023-12-03": 27,
+      "2023-12-03": 19,
       "2023-11-16": 19,
       "2023-10-29": 32
     }
