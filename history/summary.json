@@ -4,7 +4,7 @@
     "url": "https://www.ashishkhokhar.com/robots.txt?$GITHUB_RUN_ID",
     "icon": "https://icons.duckduckgo.com/ip3/www.ashishkhokhar.com.ico",
     "slug": "ak",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "97.36%",
     "uptimeWeek": "99.62%",
@@ -16,6 +16,7 @@
     "timeMonth": 1018,
     "timeYear": 523,
     "dailyMinutesDown": {
+      "2023-12-04": 0,
       "2023-12-03": 38,
       "2023-11-16": 19,
       "2023-10-29": 32
