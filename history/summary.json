@@ -22,19 +22,19 @@
     "url": "http://home.ashishkhokhar.com/$TEST_URL",
     "icon": "https://icons.duckduckgo.com/ip3/home.ashishkhokhar.com.ico",
     "slug": "home",
-    "status": "down",
-    "uptime": "99.81%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 398,
-    "timeDay": 398,
-    "timeWeek": 398,
-    "timeMonth": 398,
-    "timeYear": 398,
+    "status": "up",
+    "uptime": "98.49%",
+    "uptimeDay": "98.49%",
+    "uptimeWeek": "98.49%",
+    "uptimeMonth": "98.49%",
+    "uptimeYear": "98.49%",
+    "time": 464,
+    "timeDay": 464,
+    "timeWeek": 464,
+    "timeMonth": 464,
+    "timeYear": 464,
     "dailyMinutesDown": {
-      "2023-12-05": 1
+      "2023-12-05": 9
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "http://home.ashishkhokhar.com:32400/",
     "icon": "https://icons.duckduckgo.com/ip3/home.ashishkhokhar.com.ico",
     "slug": "plex",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 358,
-    "timeDay": 358,
-    "timeWeek": 358,
-    "timeMonth": 358,
-    "timeYear": 358,
+    "status": "up",
+    "uptime": "98.57%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "98.57%",
+    "uptimeMonth": "98.57%",
+    "uptimeYear": "98.57%",
+    "time": 425,
+    "timeDay": 425,
+    "timeWeek": 425,
+    "timeMonth": 425,
+    "timeYear": 425,
     "dailyMinutesDown": {
-      "2023-12-05": 1
+      "2023-12-05": 9
     }
   },
   {
