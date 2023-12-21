@@ -24,19 +24,19 @@
     "url": "http://home.ashishkhokhar.com/$TEST_URL",
     "icon": "https://icons.duckduckgo.com/ip3/home.ashishkhokhar.com.ico",
     "slug": "home",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 451,
     "timeDay": 372,
     "timeWeek": 438,
     "timeMonth": 451,
     "timeYear": 451,
     "dailyMinutesDown": {
-      "2023-12-21": 0
+      "2023-12-21": 9
     }
   },
   {
