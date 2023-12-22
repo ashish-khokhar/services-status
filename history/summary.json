@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 345,
-    "timeDay": 164,
-    "timeWeek": 326,
-    "timeMonth": 345,
-    "timeYear": 345,
+    "time": 336,
+    "timeDay": 170,
+    "timeWeek": 217,
+    "timeMonth": 336,
+    "timeYear": 336,
     "dailyMinutesDown": {
       "2023-12-08": 16
     }
@@ -24,20 +24,18 @@
     "url": "http://home.ashishkhokhar.com/$TEST_URL",
     "icon": "https://icons.duckduckgo.com/ip3/home.ashishkhokhar.com.ico",
     "slug": "home",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 451,
-    "timeDay": 372,
-    "timeWeek": 438,
-    "timeMonth": 451,
-    "timeYear": 451,
-    "dailyMinutesDown": {
-      "2023-12-21": 9
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 446,
+    "timeDay": 400,
+    "timeWeek": 417,
+    "timeMonth": 446,
+    "timeYear": 446,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Plex",
@@ -50,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 438,
-    "timeDay": 435,
-    "timeWeek": 435,
-    "timeMonth": 438,
-    "timeYear": 438,
+    "time": 437,
+    "timeDay": 412,
+    "timeWeek": 429,
+    "timeMonth": 437,
+    "timeYear": 437,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 212,
-    "timeDay": 178,
-    "timeWeek": 202,
-    "timeMonth": 212,
-    "timeYear": 212,
+    "time": 210,
+    "timeDay": 163,
+    "timeWeek": 187,
+    "timeMonth": 210,
+    "timeYear": 210,
     "dailyMinutesDown": {}
   }
 ]
