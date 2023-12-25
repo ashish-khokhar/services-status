@@ -24,19 +24,19 @@
     "url": "http://home.ashishkhokhar.com/$TEST_URL",
     "icon": "https://icons.duckduckgo.com/ip3/home.ashishkhokhar.com.ico",
     "slug": "home",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 448,
-    "timeDay": 380,
-    "timeWeek": 431,
-    "timeMonth": 448,
-    "timeYear": 448,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 452,
+    "timeDay": 465,
+    "timeWeek": 444,
+    "timeMonth": 452,
+    "timeYear": 452,
     "dailyMinutesDown": {
-      "2023-12-25": 2
+      "2023-12-25": 18
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "http://home.ashishkhokhar.com:32400/",
     "icon": "https://icons.duckduckgo.com/ip3/home.ashishkhokhar.com.ico",
     "slug": "plex",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 441,
-    "timeDay": 441,
-    "timeWeek": 449,
-    "timeMonth": 441,
-    "timeYear": 441,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 443,
+    "timeDay": 468,
+    "timeWeek": 455,
+    "timeMonth": 443,
+    "timeYear": 443,
     "dailyMinutesDown": {
-      "2023-12-25": 1
+      "2023-12-25": 17
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "home.ashishkhokhar.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "km-sd",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 209,
-    "timeDay": 178,
-    "timeWeek": 193,
-    "timeMonth": 209,
-    "timeYear": 209,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 210,
+    "timeDay": 206,
+    "timeWeek": 198,
+    "timeMonth": 210,
+    "timeYear": 210,
     "dailyMinutesDown": {
-      "2023-12-25": 0
+      "2023-12-25": 16
     }
   }
 ]
