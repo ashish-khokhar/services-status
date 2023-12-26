@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ashishkhokhar.com.ico",
     "slug": "web",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 326,
-    "timeDay": 176,
-    "timeWeek": 225,
-    "timeMonth": 326,
-    "timeYear": 326,
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 325,
+    "timeDay": 304,
+    "timeWeek": 251,
+    "timeMonth": 325,
+    "timeYear": 325,
     "dailyMinutesDown": {
       "2023-12-08": 16
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 452,
-    "timeDay": 465,
-    "timeWeek": 444,
-    "timeMonth": 452,
-    "timeYear": 452,
+    "time": 453,
+    "timeDay": 524,
+    "timeWeek": 456,
+    "timeMonth": 453,
+    "timeYear": 453,
     "dailyMinutesDown": {
       "2023-12-25": 18
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 443,
-    "timeDay": 468,
-    "timeWeek": 455,
-    "timeMonth": 443,
-    "timeYear": 443,
+    "time": 445,
+    "timeDay": 485,
+    "timeWeek": 467,
+    "timeMonth": 445,
+    "timeYear": 445,
     "dailyMinutesDown": {
       "2023-12-25": 17
     }
@@ -65,16 +65,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "km-sd",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "98.90%",
     "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 210,
-    "timeDay": 206,
-    "timeWeek": 198,
-    "timeMonth": 210,
-    "timeYear": 210,
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 211,
+    "timeDay": 234,
+    "timeWeek": 207,
+    "timeMonth": 211,
+    "timeYear": 211,
     "dailyMinutesDown": {
       "2023-12-25": 16
     }
