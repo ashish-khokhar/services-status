@@ -8,7 +8,7 @@ sites:
   - name: Home
     url: http://home.ashishkhokhar.com/$TEST_URL
     expectedStatusCodes:
-    - 403
+    - 404
   - name: Plex
     url: http://home.ashishkhokhar.com:32400/
     expectedStatusCodes:
