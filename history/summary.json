@@ -27,9 +27,9 @@
     "url": "http://home.ashishkhokhar.com/$TEST_URL",
     "icon": "https://icons.duckduckgo.com/ip3/home.ashishkhokhar.com.ico",
     "slug": "home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.83%",
@@ -39,6 +39,7 @@
     "timeMonth": 478,
     "timeYear": 467,
     "dailyMinutesDown": {
+      "2024-05-22": 0,
       "2024-05-14": 43,
       "2024-04-10": 57,
       "2024-04-05": 59,
@@ -57,9 +58,9 @@
     "url": "http://home.ashishkhokhar.com:32400/",
     "icon": "https://icons.duckduckgo.com/ip3/home.ashishkhokhar.com.ico",
     "slug": "plex",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.89%",
@@ -69,6 +70,7 @@
     "timeMonth": 442,
     "timeYear": 479,
     "dailyMinutesDown": {
+      "2024-05-22": 0,
       "2024-05-14": 42,
       "2024-04-10": 57,
       "2024-04-03": 20,
@@ -83,9 +85,9 @@
     "url": "kms.ashishkhokhar.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.93%",
@@ -95,6 +97,7 @@
     "timeMonth": 198,
     "timeYear": 201,
     "dailyMinutesDown": {
+      "2024-05-22": 0,
       "2024-05-14": 41
     }
   }
