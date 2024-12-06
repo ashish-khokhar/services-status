@@ -13,9 +13,9 @@ sites:
     - 404
   
   - name: Plex
-    url: http://home.ashishkhokhar.com:32400/
+    url: http://plex.home.ashishkhokhar.com:32400/web/index.html
     expectedStatusCodes:
-    - 401
+    - 200
 
   - name: KMS
     check: "tcp-ping"
