@@ -14,7 +14,7 @@
     "timeDay": 318,
     "timeWeek": 273,
     "timeMonth": 866,
-    "timeYear": 2904,
+    "timeYear": 2911,
     "dailyMinutesDown": {
       "2024-12-06": 36,
       "2024-11-22": 30,
@@ -169,19 +169,19 @@
     "url": "https://jellyfin.home.ashishkhokhar.com/web/",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.home.ashishkhokhar.com.ico",
     "slug": "jellyfin",
-    "status": "down",
-    "uptime": "97.55%",
-    "uptimeDay": "69.51%",
-    "uptimeWeek": "95.64%",
-    "uptimeMonth": "97.55%",
-    "uptimeYear": "97.55%",
-    "time": 829,
-    "timeDay": 835,
-    "timeWeek": 832,
-    "timeMonth": 829,
-    "timeYear": 829,
+    "status": "up",
+    "uptime": "97.46%",
+    "uptimeDay": "68.28%",
+    "uptimeWeek": "95.47%",
+    "uptimeMonth": "97.46%",
+    "uptimeYear": "97.46%",
+    "time": 819,
+    "timeDay": 757,
+    "timeWeek": 813,
+    "timeMonth": 819,
+    "timeYear": 819,
     "dailyMinutesDown": {
-      "2024-12-18": 439
+      "2024-12-18": 457
     }
   }
 ]
