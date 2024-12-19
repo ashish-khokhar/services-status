@@ -1,7 +1,7 @@
 url: https://jellyfin.home.ashishkhokhar.com/web/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-19T21:37:59.118Z
+status: up
+code: 200
+responseTime: 912
+lastUpdated: 2024-12-19T23:08:28.854Z
 startTime: 2024-12-06T11:37:11.324Z
 generator: Upptime <https://github.com/upptime/upptime>
