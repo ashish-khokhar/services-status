@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ashishkhokhar.com.ico",
     "slug": "web",
     "status": "up",
-    "uptime": "91.85%",
+    "uptime": "91.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "88.34%",
-    "time": 2418,
-    "timeDay": 2182,
-    "timeWeek": 1946,
-    "timeMonth": 2263,
-    "timeYear": 3030,
+    "time": 2423,
+    "timeDay": 2883,
+    "timeWeek": 1965,
+    "timeMonth": 2228,
+    "timeYear": 3037,
     "dailyMinutesDown": {
       "2024-12-06": 36,
       "2024-11-22": 30,
@@ -77,10 +77,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
     "time": 649,
-    "timeDay": 1144,
-    "timeWeek": 1151,
-    "timeMonth": 1121,
-    "timeYear": 717,
+    "timeDay": 937,
+    "timeWeek": 1107,
+    "timeMonth": 1120,
+    "timeYear": 718,
     "dailyMinutesDown": {
       "2024-12-26": 25,
       "2024-12-20": 29,
@@ -92,8 +92,7 @@
       "2024-09-04": 0,
       "2024-07-25": 36,
       "2024-07-20": 675,
-      "2024-05-22": 19,
-      "2024-05-14": 43
+      "2024-05-22": 19
     }
   },
   {
@@ -108,8 +107,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
     "time": 520,
-    "timeDay": 766,
-    "timeWeek": 685,
+    "timeDay": 551,
+    "timeWeek": 655,
     "timeMonth": 658,
     "timeYear": 534,
     "dailyMinutesDown": {
@@ -121,8 +120,7 @@
       "2024-09-09": 238,
       "2024-07-25": 36,
       "2024-07-20": 675,
-      "2024-05-22": 19,
-      "2024-05-14": 42
+      "2024-05-22": 19
     }
   },
   {
@@ -136,9 +134,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
-    "time": 199,
-    "timeDay": 219,
-    "timeWeek": 208,
+    "time": 198,
+    "timeDay": 163,
+    "timeWeek": 200,
     "timeMonth": 200,
     "timeYear": 198,
     "dailyMinutesDown": {
@@ -148,8 +146,7 @@
       "2024-09-09": 237,
       "2024-07-25": 36,
       "2024-07-20": 675,
-      "2024-05-22": 19,
-      "2024-05-14": 41
+      "2024-05-22": 19
     }
   },
   {
@@ -163,11 +160,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
-    "time": 848,
-    "timeDay": 934,
-    "timeWeek": 905,
+    "time": 847,
+    "timeDay": 709,
+    "timeWeek": 874,
     "timeMonth": 872,
-    "timeYear": 848,
+    "timeYear": 847,
     "dailyMinutesDown": {
       "2024-12-19": 91,
       "2024-12-18": 457
